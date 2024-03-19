@@ -1,0 +1,4 @@
+- https://www.baeldung.com/java-opencv
+  - https://github.com/opencv/opencv/tree/master/data/haarcascades
+- https://opencv-java-tutorials.readthedocs.io/en/latest/01-installing-opencv-for-java.html#introduction-to-opencv-for-java
+- https://www.youtube.com/watch?v=TsUhEuySano
